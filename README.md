@@ -46,7 +46,7 @@ Former member of **Google Developers on Campus** at FST.
 
 ## 📫 Connect
 
-[![LinkedIn](https://www.linkedin.com/in/ahmed-bahroun-1533b0322/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Bahroun-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-bahroun-1533b0322/)
 
 ---
 
