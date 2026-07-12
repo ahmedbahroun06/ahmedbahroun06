@@ -1,30 +1,52 @@
 # Hi, I'm Ahmed Bahroun 👋
 
-🎓 CS Student @ FST — Université Tunis El Manar (2nd year)
-🔐 Cybersecurity enthusiast | Former SOC Intern @ ANCS tunCERT
-💻 Full-stack developer | Scrum Master @ SafeZone
+🎓 CS Student @ FST — Université Tunis El Manar (3rd year)
+
+🔐 Cybersecurity Intern @ Sofrecom
+
+🛡️ Former SOC Intern @ ANCS tunCERT
+
+💻 Full-stack Developer | Scrum Master @ SafeZone
+
 📍 Tunis, Tunisia
+---
+
+## About Me
+
+I'm a Computer Science student passionate about cybersecurity, artificial intelligence, and building real-world software.
+
+I'm currently a Cybersecurity Intern at Sofrecom, where I'm contributing to an AI-assisted cyberattack detection project. My work includes building a virtual Cyber Range, deploying Wazuh, developing Python tools for log analysis, and studying AI-generated attacks such as phishing, malicious scripts, and prompt injection.
+
+Previously, I completed a SOC internship at Tunisia's national cybersecurity agency (ANCS tunCERT), where I gained practical exposure to SIEM monitoring, alert triage, threat investigation, and incident management using Security Onion, Zabbix, VirusTotal, and Passive DNS.
+
+Outside cybersecurity, I enjoy building full-stack applications. As Scrum Master, I co-developed SafeZone, a civic tech platform that enables citizens to report and monitor urban issues across Tunisia.
+
+Former member of Google Developers on Campus at FST.
 
 ---
 
-## About me
+🛠️ Tech Stack
 
-I'm a computer science student passionate about cybersecurity and building real-world digital products. I interned at Tunisia's national cybersecurity agency (ANCS tunCERT), where I got hands-on exposure to SOC operations — SIEM monitoring, alert triage, and incident management.
+Languages:
+C • C++ • Java • Python • JavaScript • SQL
 
-I also co-built and led (as Scrum Master) **SafeZone**, a live civic tech platform that lets Tunisian citizens report and track urban problems on an interactive map.
+Frontend:
+React.js • Vite • HTML/CSS • Leaflet.js • react-i18next
 
-Former member of **Google Developers on Campus** at FST.
+Backend & Cloud:
+Firebase • Firestore • Authentication • Storage • Cloudinary
 
----
+Cybersecurity:
+Wazuh • Security Onion • SIEM • Burp Suite • VirusTotal • Passive DNS • IDS/IPS
 
-## 🛠️ Tech stack
+DevOps & Tools:
+Docker • Git • GitHub • Linux • Virtual Machines • Netlify
 
-**Languages:** C · C++ · Java · Python · JavaScript
-**Frontend:** React.js · Vite · HTML/CSS · Leaflet.js · react-i18next
-**Backend/Cloud:** Firebase (Firestore · Auth · Storage) · Cloudinary
-**DevOps:** Git · GitHub · Netlify (CI/CD)
-**Cybersecurity:** SIEM · Security Onion · Zabbix · VirusTotal · Passive DNS · IDS/IPS
-**Methods:** Agile/Scrum · UML · N-tier architecture
+AI:
+LLM Fundamentals • Prompt Engineering • Scikit-learn 
+
+Methodologies:
+Agile/Scrum • UML • N-tier Architecture
 
 ---
 
