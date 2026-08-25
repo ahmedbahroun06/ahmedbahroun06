@@ -43,7 +43,7 @@ DevOps & Tools:
 Docker • Git • GitHub • Linux • Virtual Machines • Netlify
 
 AI:
-LLM Fundamentals • Prompt Engineering • Scikit-learn 
+LLM Fundamentals • Prompt Engineering 
 
 Methodologies:
 Agile/Scrum • UML • N-tier Architecture
