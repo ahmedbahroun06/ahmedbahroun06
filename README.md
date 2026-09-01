@@ -77,4 +77,3 @@ Agile/Scrum • UML • N-tier Architecture
 
 ---
 
-*Currently exploring cloud computing & DevOps as my next frontier.*
