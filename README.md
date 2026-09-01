@@ -30,7 +30,7 @@ C • C++ • Java • Python • JavaScript • SQL
 React.js • Vite • HTML/CSS • Leaflet.js • react-i18next
 
 **Backend & Cloud:**
-Firebase • Firestore • Authentication • Storage • Cloudinary
+FastAPI • Firebase • Firestore • Cloudinary
 
 **Cybersecurity:**
 Wazuh • Security Onion • SIEM • Burp Suite • VirusTotal • Passive DNS • IDS/IPS
@@ -46,7 +46,7 @@ Agile/Scrum • UML • N-tier Architecture
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🗺️ SafeZone — Civic Tech Platform
 
@@ -59,6 +59,15 @@ Agile/Scrum • UML • N-tier Architecture
 - Developed in 3 Agile sprints (Jan–Apr 2026)
 
 🔗 [Live app](https://safezone-app.netlify.app) · [GitHub repo](https://github.com/ahmedbahroun06/SafeZone)
+
+### 🛡️ AI Cyberattack Simulation & Detection Lab
+
+> A virtual cyber range built during my Sofrecom internship to simulate AI-generated attacks and test automated detection & response.
+
+- 3-VM VMware lab with Wazuh SIEM for detection
+- Two custom apps: an attack simulation platform and an autonomous incident response system
+- Covers AI-generated phishing, malicious scripts, and prompt injection scenarios
+- Built with Python, FastAPI, and Wazuh
 
 ---
 
