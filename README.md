@@ -11,7 +11,7 @@
 
 I'm a Computer Science student passionate about cybersecurity, artificial intelligence, and building real-world software.
 
-I completed a two-month Cybersecurity internship at Sofrecom (Orange Group), where I contributed to an AI-assisted cyberattack detection project. My work included building a virtual Cyber Range, deploying Wazuh, developing Python tools for log analysis, and studying AI-generated attacks such as phishing, malicious scripts, and prompt injection.
+I completed a two-month Cybersecurity internship at Sofrecom (Orange Group), where I contributed to an AI-assisted cyberattack detection project. My work included building a virtual Cyber Range, deploying Wazuh, developing Python tools for log analysis, integrating Mattermost for real-time alert notifications and team visibility, and studying AI-generated attacks such as phishing, malicious scripts, and prompt injection.
 
 Previously, I completed a SOC internship at Tunisia's national cybersecurity agency (ANCS tunCERT), where I gained practical exposure to SIEM monitoring, alert triage, threat investigation, and incident management using Security Onion, Zabbix, VirusTotal, and Passive DNS.
 
