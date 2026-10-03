@@ -1,49 +1,60 @@
 # Ahmed Bahroun
 
-Computer Science student (3rd year, Software Engineering) at FST, Université Tunis El Manar.
-SOC and SIEM, incident response, and AI applied to threat detection.
+**Computer Science student at FST, Université Tunis El Manar**, interested in **cybersecurity, AI applied to security, software engineering and DevOps**.
 
-Tunisia · [LinkedIn](https://www.linkedin.com/in/ahmedbahroun) · ahmedbahroun06@gmail.com
+I enjoy building practical systems that combine security, automation and software engineering.
 
----
+### Experience
 
-## Experience
+**Cybersecurity Intern — Sofrecom Tunisie (Orange Group)** · Jul–Aug 2026
 
-**Cybersecurity Intern, Sofrecom Tunisie (Orange Group)** — Jul–Aug 2026
-Built two AI-assisted security tools in Python and FastAPI: an attack simulation platform and an automated incident detection and response platform. Deployed a 3-VM cyber range with Wazuh SIEM (custom decoders and rules, MITRE ATT&CK mapping, real-time alerts to Mattermost). Validated the full attack, detection, remediation and verification cycle on 6 AI-generated attack scenarios. The source code is confidential, so there is no public repository.
+* Built two AI-assisted cybersecurity tools: an attack simulation platform and an automated incident detection and response platform.
+* Deployed a 3-VM cyber range with **Wazuh**, custom detection rules, MITRE ATT&CK mapping and real-time **Mattermost** notifications.
+* Validated the attack → detection → remediation → verification workflow across 6 AI-generated attack scenarios.
+* Source code is confidential and therefore not publicly available.
 
-**Cybersecurity Intern, ANCS (tunCERT)** — Aug–Sep 2025
-Real-time SIEM and IDS/IPS monitoring (Security Onion, Zabbix), alert triage with VirusTotal, Passive DNS and Netcraft, and incident lifecycle tracking with L2 escalation.
+**Cybersecurity Intern — ANCS / tunCERT** · Aug–Sep 2025
 
----
+* Monitored SIEM and IDS/IPS infrastructure using **Security Onion** and **Zabbix**.
+* Triaged security alerts using **VirusTotal, Passive DNS and Netcraft**.
+* Investigated phishing, malware, brute-force and DDoS-related incidents and escalated confirmed cases.
 
-## Featured projects
+### Featured Projects
 
 **[PhishLens](https://github.com/ahmedbahroun06/PhishLens)** · [Live demo](https://phishlens-va98.onrender.com)
-Phishing email analyzer. Checks SPF/DKIM/DMARC, lookalike domains, links and QR codes, VirusTotal reputation, then an LLM explains the evidence. Every verdict comes with its reasons. Python, FastAPI, Docker.
+Explainable phishing email analysis platform combining email forensics, threat intelligence and LLM-assisted reasoning.
+**Python · FastAPI · VirusTotal · Groq · SQLite · Docker**
 
 **[Active Directory Deployment Lab](https://github.com/ahmedbahroun06/active-directory-deployment-lab)**
-Windows Server 2022 domain controller, DNS, OU structure, security groups, GPO and a domain-joined Windows 10 client, built and documented in VMware.
+Windows enterprise infrastructure lab covering **Active Directory, DNS, organizational units, security groups, domain joining and Group Policy**, deployed with VMware.
 
 **[SafeZone](https://github.com/ahmedbahroun06/SafeZone)** · [Live app](https://safezone-app.netlify.app)
-Civic tech platform to report, geolocate and track urban problems. Team of 5, Scrum Master across 3 sprints. React, Vite, Firebase, Leaflet.js, Cloudinary, Netlify.
+Full-stack civic-tech platform for reporting and tracking urban problems in Tunisia. Built in a 5-person Agile team, where I served as **Scrum Master and full-stack developer**.
+**React · Vite · Firebase · Leaflet · Cloudinary · Netlify**
 
----
+### Technical Interests
 
-## Skills
+**Cybersecurity:** SOC · SIEM · Threat Detection · Incident Response · Phishing Analysis · IDS/IPS · MITRE ATT&CK
 
-| | |
-|---|---|
-| **Security** | SOC, SIEM (Wazuh, Security Onion), IDS/IPS, incident response, threat detection, phishing analysis, MITRE ATT&CK |
-| **Languages** | Python, JavaScript, C/C++, Java, PHP, SQL |
-| **Development** | FastAPI, React.js, Vite, HTML/CSS |
-| **Systems** | Linux, Windows Server, Active Directory, DNS, GPO, VMware, Docker |
-| **Tools** | Git, VirusTotal, Passive DNS, Netcraft, Zabbix, Burp Suite, Kali Linux |
+**AI & Security:** LLM applications · AI-assisted security analysis · Security automation
 
----
+**Development:** Python · JavaScript · C/C++ · Java · PHP · SQL · FastAPI · React
 
-## Certifications and community
+**Systems & DevOps:** Linux · Windows Server · Active Directory · DNS · GPO · VMware · Docker · Git
 
-- [Introduction to Cybersecurity](https://www.credly.com/badges/b6c70cf0-ce61-4e71-ba8a-1eeb0a5d8001), Cisco Networking Academy (2026)
-- Member, Securinets FST (2026 to present)
-- Former member, Google Developers on Campus FST (2024–2026)
+### Community
+
+* **Securinets FST** — Member · CTF participant
+* **Google Developers on Campus FST** — Former member · 2024–2026
+
+### Certification
+
+**Introduction to Cybersecurity — Cisco Networking Academy** · 2026
+
+📫 **LinkedIn:** https://www.linkedin.com/in/ahmedbahroun
+
+
+
+
+
+
