@@ -73,7 +73,7 @@ Agile/Scrum • UML • N-tier Architecture
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Bahroun-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-bahroun/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Bahroun-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedbahroun/)
 
 ---
 
