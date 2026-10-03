@@ -1,79 +1,49 @@
-# Hi, I'm Ahmed Bahroun 👋
-🎓 CS Student @ FST — Université Tunis El Manar (3rd year)
-🔐 Cybersecurity Intern @ Sofrecom (Orange Group)
-🛡️ Former SOC Intern @ ANCS tunCERT
-💻 Full-stack Developer | Scrum Master @ SafeZone
-📍 Tunis, Tunisia
+# Ahmed Bahroun
+
+Computer Science student (3rd year, Software Engineering) at FST, Université Tunis El Manar.
+SOC and SIEM, incident response, and AI applied to threat detection.
+
+Tunisia · [LinkedIn](https://www.linkedin.com/in/ahmedbahroun) · ahmedbahroun06@gmail.com
 
 ---
 
-## About Me
+## Experience
 
-I'm a Computer Science student passionate about cybersecurity, artificial intelligence, and building real-world software.
+**Cybersecurity Intern, Sofrecom Tunisie (Orange Group)** — Jul–Aug 2026
+Built two AI-assisted security tools in Python and FastAPI: an attack simulation platform and an automated incident detection and response platform. Deployed a 3-VM cyber range with Wazuh SIEM (custom decoders and rules, MITRE ATT&CK mapping, real-time alerts to Mattermost). Validated the full attack, detection, remediation and verification cycle on 6 AI-generated attack scenarios. The source code is confidential, so there is no public repository.
 
-I completed a two-month Cybersecurity internship at Sofrecom (Orange Group), where I contributed to an AI-assisted cyberattack detection project. My work included building a virtual Cyber Range, deploying Wazuh, developing Python tools for log analysis, integrating Mattermost for real-time alert notifications and team visibility, and studying AI-generated attacks such as phishing, malicious scripts, and prompt injection.
-
-Previously, I completed a SOC internship at Tunisia's national cybersecurity agency (ANCS tunCERT), where I gained practical exposure to SIEM monitoring, alert triage, threat investigation, and incident management using Security Onion, Zabbix, VirusTotal, and Passive DNS.
-
-Outside cybersecurity, I enjoy building full-stack applications. As Scrum Master, I co-developed SafeZone, a civic tech platform that enables citizens to report and monitor urban issues across Tunisia.
-
-Former member of Google Developers on Campus at FST.
+**Cybersecurity Intern, ANCS (tunCERT)** — Aug–Sep 2025
+Real-time SIEM and IDS/IPS monitoring (Security Onion, Zabbix), alert triage with VirusTotal, Passive DNS and Netcraft, and incident lifecycle tracking with L2 escalation.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured projects
 
-**Languages:**
-C • C++ • Java • Python • JavaScript • SQL
+**[PhishLens](https://github.com/ahmedbahroun06/PhishLens)** · [Live demo](https://phishlens-va98.onrender.com)
+Phishing email analyzer. Checks SPF/DKIM/DMARC, lookalike domains, links and QR codes, VirusTotal reputation, then an LLM explains the evidence. Every verdict comes with its reasons. Python, FastAPI, Docker.
 
-**Frontend:**
-React.js • Vite • HTML/CSS • Leaflet.js • react-i18next
+**[Active Directory Deployment Lab](https://github.com/ahmedbahroun06/active-directory-deployment-lab)**
+Windows Server 2022 domain controller, DNS, OU structure, security groups, GPO and a domain-joined Windows 10 client, built and documented in VMware.
 
-**Backend & Cloud:**
-FastAPI • Firebase • Firestore • Cloudinary
-
-**Cybersecurity:**
-Wazuh • Security Onion • SIEM • Burp Suite • VirusTotal • Passive DNS • IDS/IPS
-
-**DevOps & Tools:**
-Docker • Git • GitHub • Linux • Virtual Machines • Netlify
-
-**AI:**
-LLM Fundamentals • Prompt Engineering
-
-**Methodologies:**
-Agile/Scrum • UML • N-tier Architecture
+**[SafeZone](https://github.com/ahmedbahroun06/SafeZone)** · [Live app](https://safezone-app.netlify.app)
+Civic tech platform to report, geolocate and track urban problems. Team of 5, Scrum Master across 3 sprints. React, Vite, Firebase, Leaflet.js, Cloudinary, Netlify.
 
 ---
 
-## 🚀 Featured Projects
+## Skills
 
-### 🗺️ SafeZone — Civic Tech Platform
-
-> A participatory web platform for reporting and tracking urban problems across Tunisia in real time.
-
-- Built with React.js, Firebase, Leaflet.js, Cloudinary, deployed on Netlify
-- Role-based access: guest · citizen · moderator · administrator
-- Interactive national heatmap + geolocation-based reporting
-- Multilingual: French / English / Arabic
-- Developed in 3 Agile sprints (Jan–Apr 2026)
-
-🔗 [Live app](https://safezone-app.netlify.app) · [GitHub repo](https://github.com/ahmedbahroun06/SafeZone)
-
-### 🛡️ AI Cyberattack Simulation & Detection Lab
-
-> A virtual cyber range built during my Sofrecom internship to simulate AI-generated attacks and test automated detection & response.
-
-- 3-VM VMware lab with Wazuh SIEM for detection
-- Two custom apps: an attack simulation platform and an autonomous incident response system
-- Covers AI-generated phishing, malicious scripts, and prompt injection scenarios
-- Built with Python, FastAPI, and Wazuh
+| | |
+|---|---|
+| **Security** | SOC, SIEM (Wazuh, Security Onion), IDS/IPS, incident response, threat detection, phishing analysis, MITRE ATT&CK |
+| **Languages** | Python, JavaScript, C/C++, Java, PHP, SQL |
+| **Development** | FastAPI, React.js, Vite, HTML/CSS |
+| **Systems** | Linux, Windows Server, Active Directory, DNS, GPO, VMware, Docker |
+| **Tools** | Git, VirusTotal, Passive DNS, Netcraft, Zabbix, Burp Suite, Kali Linux |
 
 ---
 
-## 📫 Connect
+## Certifications and community
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Bahroun-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedbahroun/)
-
----
-
+- [Introduction to Cybersecurity](https://www.credly.com/badges/b6c70cf0-ce61-4e71-ba8a-1eeb0a5d8001), Cisco Networking Academy (2026)
+- Member, Securinets FST (2026 to present)
+- Former member, Google Developers on Campus FST (2024–2026)
